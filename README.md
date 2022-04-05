@@ -33,3 +33,6 @@
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 
+<p align="center">
+  <img alt="noorish Stats" src="https://github-readme-stats.vercel.app/api?username=noorish100&show_icons=true&theme=radical">
+</p>
